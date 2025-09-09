@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHANASUNDHARAM P</h1>
 <h3 align="center">Full-stack developer passionate about building clean, efficient, and user-friendly web applications. Always exploring new technologies and best practices to deliver high-quality projects.</h3>
-<img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **Python,Django,JavaScript,React,MySQL**
 
 - 📫 How to reach me **mohanasundharam.dev@gmail.com**
