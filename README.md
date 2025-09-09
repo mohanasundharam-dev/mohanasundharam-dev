@@ -1,6 +1,7 @@
+<img src="/FULL STACK DEVELOPER.gif" alt="Tech>
 <h1 align="center">Hi 👋, I'm MOHANASUNDHARAM P</h1>
 <h3 align="center">Full-stack developer passionate about building clean, efficient, and user-friendly web applications. Always exploring new technologies and best practices to deliver high-quality projects.</h3>
-<img align='right' height="200px" widht="100px" src="/FULL STACK DEVELOPER.gif" alt='samadpls/Programming-Gifs'>
+<img align='right' height="200px" widht="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='samadpls/Programming-Gifs'>
 
 - 💬 Ask me about **Python,Django,JavaScript,React,MySQL**
 
