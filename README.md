@@ -1,14 +1,11 @@
 <img src="/FULL STACK DEVELOPER.gif" alt='samadpls/Programming-Gifs'>
 <h1 align="center">Hi 👋, I'm MOHANASUNDHARAM P</h1>
 <h3 align="center">Full-stack developer passionate about building clean, efficient, and user-friendly web applications. Always exploring new technologies and best practices to deliver high-quality projects.</h3>
-<img align='right' height="200px" widht="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='samadpls/Programming-Gifs'>
-
-- 💬 Ask me about **Python,Django,JavaScript,React,MySQL**
 
 - 📫 How to reach me **mohanasundharam.dev@gmail.com**
 
-# 💫 About Me:
-🔭 I’m currently working on full-stack web projects (React,Django,MySQL).<br><br>👯 I’m looking to collaborate on open-source web applications and AI projects.<br><br>🤝 I’m looking for help with building scalable systems and contributing to the open-source community.<br><br>🌱 I’m currently learning React, Django, and advanced JavaScript concepts.<br><br>💬 Ask me about web development, project ideas, and GitHub contributions.<br><br>⚡ Fun fact: I’ve collected many sports awards alongside my coding journey 🏆💻.
+# Who I Am :
+🔭 I’m currently working on full-stack web projects (React,Django,MySQL).<br><br>🤝 I’m looking to collaborate on open-source web applications and AI projects.<br><br>⚡Fun fact: I’ve collected many sports awards alongside my coding journey 🏆💻.
 
 
 ## 🌐 Socials:
